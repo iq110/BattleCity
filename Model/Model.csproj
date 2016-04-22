@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{197FEA45-75B0-40BF-A311-5DF65562C567}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Model</RootNamespace>
+    <AssemblyName>Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="sfmlnet-audio-2">
+      <HintPath>..\packages\SFML.Net.2.1.5\lib\sfmlnet-audio-2.dll</HintPath>
+    </Reference>
+    <Reference Include="sfmlnet-graphics-2">
+      <HintPath>..\packages\SFML.Net.2.1.5\lib\sfmlnet-graphics-2.dll</HintPath>
+    </Reference>
+    <Reference Include="sfmlnet-window-2">
+      <HintPath>..\packages\SFML.Net.2.1.5\lib\sfmlnet-window-2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entity\AnimationPac\Animation.cs" />
+    <Compile Include="Entity\AnimationPac\DrawableObject.cs" />
+    <Compile Include="Entity\AnimationPac\ExtendedPoint.cs" />
+    <Compile Include="Entity\AnimationPac\IDrawable.cs" />
+    <Compile Include="Entity\BulletPac\Bullet.cs" />
+    <Compile Include="Entity\BulletPac\States\ExplodeState.cs" />
+    <Compile Include="Entity\BulletPac\States\MoveState.cs" />
+    <Compile Include="Entity\BulletPac\States\RespawnState.cs" />
+    <Compile Include="Entity\IFireable.cs" />
+    <Compile Include="Entity\IntelligencePac\PathGetter.cs" />
+    <Compile Include="Entity\IntelligencePac\PathNode.cs" />
+    <Compile Include="Entity\ITarget.cs" />
+    <Compile Include="Entity\MapPac\Element\ElementSizeTile.cs" />
+    <Compile Include="Entity\MapPac\Element\IronElement.cs" />
+    <Compile Include="Entity\MapPac\Element\WallElement.cs" />
+    <Compile Include="Entity\MapPac\Map.cs" />
+    <Compile Include="Entity\MapPac\States\DestroingState.cs" />
+    <Compile Include="Entity\MapPac\States\FirstDamageState.cs" />
+    <Compile Include="Entity\MapPac\States\SecondDamageState.cs" />
+    <Compile Include="Entity\MapPac\States\StandState.cs" />
+    <Compile Include="Entity\MapPac\UnitSizeTile.cs" />
+    <Compile Include="Entity\Player.cs" />
+    <Compile Include="Entity\StateMashinePac\Direction.cs" />
+    <Compile Include="Entity\StateMashinePac\IStatable.cs" />
+    <Compile Include="Entity\StateMashinePac\State.cs" />
+    <Compile Include="Entity\StateMashinePac\StateMashine.cs" />
+    <Compile Include="Entity\UnitPac\States\ExplodeState.cs" />
+    <Compile Include="Entity\UnitPac\States\MoveState.cs" />
+    <Compile Include="Entity\UnitPac\States\RespawnState.cs" />
+    <Compile Include="Entity\UnitPac\States\StandState.cs" />
+    <Compile Include="Entity\UnitPac\Unit.cs" />
+    <Compile Include="Entity\WeaponPac\States\StandState.cs" />
+    <Compile Include="Entity\WeaponPac\Weapon.cs" />
+    <Compile Include="Logic.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulExp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulletMove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulResp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\null.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spriteMove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spriteMoveWithoutTower.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallFirst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallSecond.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Baseclass.Contrib.Nuget.Output.2.1.0\build\net40\Baseclass.Contrib.Nuget.Output.targets" Condition="Exists('..\packages\Baseclass.Contrib.Nuget.Output.2.1.0\build\net40\Baseclass.Contrib.Nuget.Output.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

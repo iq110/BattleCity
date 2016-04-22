@@ -1,0 +1,30 @@
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\LastBattleCity.exe.config
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\obj\Debug\LastBattleCity.Properties.Resources.resources
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\obj\Debug\LastBattleCity.csproj.GenerateResource.Cache
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\LastBattleCity.exe
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\LastBattleCity.pdb
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\Model.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\View.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\sfmlnet-window-2.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\Model.pdb
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\View.pdb
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\obj\Debug\LastBattleCity.csprojResolveAssemblyReference.cache
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\obj\Debug\LastBattleCity.exe
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\LastBattleCity\obj\Debug\LastBattleCity.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity\LastBattleCity\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\LastBattleCity.exe.config
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\obj\Debug\LastBattleCity.exe
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\obj\Debug\LastBattleCity.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\LastBattleCity.exe
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\LastBattleCity.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\Model.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\sfmlnet-window-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\View.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\Model.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\bin\Debug\View.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\obj\Debug\LastBattleCity.csprojResolveAssemblyReference.cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\obj\Debug\LastBattleCity.Properties.Resources.resources
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\LastBattleCity\obj\Debug\LastBattleCity.csproj.GenerateResource.Cache

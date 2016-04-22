@@ -1,0 +1,11 @@
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\obj\Debug\Model.Properties.Resources.resources
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\bin\Debug\Model.dll.config
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\bin\Debug\Model.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\bin\Debug\Model.pdb
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\bin\Debug\sfmlnet-audio-2.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\bin\Debug\sfmlnet-window-2.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\obj\Debug\Model.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\Model\obj\Debug\Model.pdb

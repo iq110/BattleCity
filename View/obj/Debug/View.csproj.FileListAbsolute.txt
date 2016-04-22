@@ -1,0 +1,28 @@
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\obj\Debug\View.Properties.Resources.resources
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\obj\Debug\View.csproj.GenerateResource.Cache
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\View.dll.config
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\View.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\View.pdb
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\Model.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\sfmlnet-audio-2.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\sfmlnet-window-2.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\bin\Debug\Model.pdb
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\obj\Debug\View.dll
+c:\users\iq110\documents\visual studio 2013\Projects\LastBattleCity\View\obj\Debug\View.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity\View\obj\Debug\View.BattleCity.resources
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\View.dll.config
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\View.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\View.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\Model.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\sfmlnet-window-2.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\bin\Debug\Model.pdb
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\obj\Debug\View.BattleCity.resources
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\obj\Debug\View.dll
+C:\Users\iq110\Documents\Visual Studio 2013\Projects\LastBattleCity - copy\View\obj\Debug\View.pdb
